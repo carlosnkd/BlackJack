@@ -14,7 +14,7 @@ class BlackJack():
         if self.AddCards() == 1:
             player_result += self.SuffleCards(1)
 
-
+## coment
 
 
         
